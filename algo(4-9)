@@ -1,0 +1,27 @@
+algo in 10mins
+what will be covered
+  sorting
+  matching
+  searching
+  machine learning
+
+
+---------------------------------------------
+SORTING
+  BUbble sorting
+    works in pair swapps when the pair have greater like 2--1 -> 1--2;
+  Merge sort
+    works on divide and conquor
+
+  INsertion sorting
+
+--------------------------------------------------
+MATCHING
+
+---------------------------------------
+SEARCHING
+  Ex- Travel salesman problem
+    ----------------------------
+Machine Learning
+  Supervised - netflixrecommendaton
+  Unsupervised - google photo tagging
