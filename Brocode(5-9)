@@ -2,4 +2,12 @@ Stack
   - LIFO (Last in  first out)
   - Stored object in  a vertical order
   - push pop,peek,serach,empty are the 5 operations
-  -
+  - 
+
+Queue
+  - FIFO 
+  - a collection design to holding elements prior to processing linear ds.
+  - add-> enqueue(),offer();
+  -remove-> dequeue(),poll();
+
+
